@@ -42,6 +42,7 @@ Un diccionario es un conjunto de datos que almacena información en pares de Lla
 **Ejemplo:** `usuario = {"nombre": "Manuela", "edad": 22}`. Accedes con `usuario["nombre"]`.
 
 Técnicamente, un diccionario es una implementación de una 'Hash Table'. Esto garantiza que el tiempo de búsqueda sea extremadamente rápido, sin importar si el diccionario tiene 10 o 10 millones de registros, buscar un elemento en un diccionario es casi instantáneo tiempo constante, mientras que en una lista, si el elemento está al final, Python tiene que recorrerlo todo, tiempo lineal.
+
 ---
 
 4. **¿Cuál es la diferencia entre el método ordenado y la función de ordenación?**
